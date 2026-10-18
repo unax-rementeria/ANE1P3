@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Example folder using LFS
+Content/ANE1P3/** filter=lfs diff=lfs merge=lfs -text
